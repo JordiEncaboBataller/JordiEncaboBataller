@@ -5,11 +5,6 @@
   Currently on Erasmus+ exchange @ TU Berlin
 </p>
 
-<p align="center">
-  <a href="https://huggingface.co/JordiEncabo">🤗 Hugging Face</a> ·
-  <a href="https://www.linkedin.com/in/jordi-encabo-bataller/">💼 LinkedIn</a>
-</p>
-
 ---
 
 ### 🧠 About me
@@ -37,6 +32,44 @@ Streamlit app that scrapes news articles and classifies political bias and fake/
 - Full UI redesign, security hardening, and parallelized inference
 - Models published on Hugging Face Hub: [`newsreader-bias`](https://huggingface.co/JordiEncabo/newsreader-bias) · [`newsreader-fake`](https://huggingface.co/JordiEncabo/newsreader-fake)
 - `Python` `Streamlit` `Transformers` `Mistral API`
+
+---
+
+### 🧰 Skills & Technologies
+
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**ML / Data**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
+
+**Tools & Platforms**
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📫 Contact
+
+<p align="center">
+  <a href="mailto:jencbat05@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jordi-encabo-bataller/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/JordiEncabo">
+    <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+  </a>
+</p>
 
 ---
 
