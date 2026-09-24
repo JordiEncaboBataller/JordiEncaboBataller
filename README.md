@@ -40,12 +40,4 @@ Streamlit app that scrapes news articles and classifies political bias and fake/
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JordiEncaboBataller&show_icons=true&theme=default" alt="Jordi's GitHub stats" />
-</p>
-
----
-
 <p align="center"><i>Open to internship opportunities from March 2027 onward 🚀</i></p>
