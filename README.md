@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://huggingface.co/JordiEncabo">🤗 Hugging Face</a> ·
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/jordi-encabo-bataller/">💼 LinkedIn</a>
 </p>
 
 ---
@@ -37,12 +37,6 @@ Streamlit app that scrapes news articles and classifies political bias and fake/
 - Full UI redesign, security hardening, and parallelized inference
 - Models published on Hugging Face Hub: [`newsreader-bias`](https://huggingface.co/JordiEncabo/newsreader-bias) · [`newsreader-fake`](https://huggingface.co/JordiEncabo/newsreader-fake)
 - `Python` `Streamlit` `Transformers` `Mistral API`
-
-#### [🤖 BDI MAS Generator — Multi-Agent System](https://github.com/JordiEncaboBataller/bdi-mas-generator)
-Multi-agent system built with Google ADK, using a Sequential/Parallel/Loop agent architecture to generate structured academic content.
-- BDI-inspired agent design with disk-persisted state to prevent hallucination
-- Rubric-based automated evaluation
-- `Python` `Google ADK` `LLM Agents`
 
 ---
 
