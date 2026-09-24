@@ -25,7 +25,7 @@ I build ML projects end-to-end — from data collection and model training to de
 
 ### 🚀 Featured Projects
 
-#### [🤟 Signos — Real-time ASL Fingerspelling Translator](https://github.com/JordiEncaboBataller/signos)
+#### [🤟 Signos — Real-time ASL Fingerspelling Translator](https://github.com/JordiEncaboBataller/sign-language-cv)
 Real-time A–Z American Sign Language fingerspelling recognition using MediaPipe hand landmarks.
 - Hybrid architecture: MLP for static letters, LSTM for motion letters (J/Z)
 - SymSpell-based autocorrection + text-to-speech output
